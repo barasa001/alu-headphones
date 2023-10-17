@@ -20,3 +20,7 @@ Page View from different devices:
 
 - HTML5, CSS, SASS
 - Figma
+
+## Author :black_nib:
+
+* **Seth Barasa** <[Seth](https://github.com/barasa001)>
