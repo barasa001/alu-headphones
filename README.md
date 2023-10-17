@@ -2,6 +2,13 @@
 
 In this project, I will implement from scratch, without any library, a web page. I will use all HTML/CSS/Accessibility/Responsive design knowledges that I learned previously.
 
+Page View from different devices:
+
+<p align="center">
+  <img src="alldevices.jpg"
+       alt="Template">
+</p>
+
 ## Prerequisites
 
 - HTML
@@ -9,7 +16,7 @@ In this project, I will implement from scratch, without any library, a web page.
 - Responsive Design
 - Figma
 
-  ## Built With
+## Built With
 
 - HTML5, CSS, SASS
 - Figma
